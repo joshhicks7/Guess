@@ -1,0 +1,44 @@
+.number {
+  display: flex;
+    height: 100px;
+    width: 100px;
+    box-shadow: 1px 1px black;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(247, 247, 247);
+    border-radius: 5px;
+    font-size: 25px;
+    margin: 1px;
+    text-anchor: middle;
+  }
+  
+  .number:hover {
+    cursor: pointer;
+    background-color: lightcyan;
+    transform: scale(1.025);
+  }
+  
+  .selected {
+    background-color: green;
+  }
+  
+  .game {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    flex-direction: column;
+  }
+  
+  .number_placeholder {
+    background-color: white;
+  }
+
+  .numbers {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 330px;
+  }
+
