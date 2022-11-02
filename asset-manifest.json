@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Guess/static/css/main.dc4995b1.css",
-    "main.js": "/Guess/static/js/main.9de95a98.js",
+    "main.css": "/Guess/static/css/main.d91dfba5.css",
+    "main.js": "/Guess/static/js/main.01280815.js",
     "static/js/787.49e9ff08.chunk.js": "/Guess/static/js/787.49e9ff08.chunk.js",
     "index.html": "/Guess/index.html",
-    "main.dc4995b1.css.map": "/Guess/static/css/main.dc4995b1.css.map",
-    "main.9de95a98.js.map": "/Guess/static/js/main.9de95a98.js.map",
+    "main.d91dfba5.css.map": "/Guess/static/css/main.d91dfba5.css.map",
+    "main.01280815.js.map": "/Guess/static/js/main.01280815.js.map",
     "787.49e9ff08.chunk.js.map": "/Guess/static/js/787.49e9ff08.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc4995b1.css",
-    "static/js/main.9de95a98.js"
+    "static/css/main.d91dfba5.css",
+    "static/js/main.01280815.js"
   ]
 }
